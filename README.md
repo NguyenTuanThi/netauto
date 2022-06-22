@@ -1,3 +1,5 @@
 # netauto
 
 hello
+
+hi
